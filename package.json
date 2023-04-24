@@ -28,7 +28,7 @@
     "fullcalendar-scheduler": "^1.9.4",
     "jquery": "^3.5.0",
     "moment-range": "^4.0.0",
-    "webpack-cli": "^2.1.2",
+    "webpack-cli": "^5.0.2",
     "webpack-dev-server": "^3.1.3"
   }
 }
